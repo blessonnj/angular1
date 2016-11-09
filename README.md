@@ -1,2 +1,2 @@
 # angular-phone-cat
-First Repository for Angular app named "PhoneCat".
+First Repository for an Angular app named "PhoneCat". This is developed according to the tutorial given in the angular official.
